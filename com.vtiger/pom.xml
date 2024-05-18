@@ -65,8 +65,8 @@
 	 <profiles>
 	  <profile>
 		  <id>ST</id>
-   <build>
-		<plugins>
+            <build>
+		    <plugins>
 			
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
